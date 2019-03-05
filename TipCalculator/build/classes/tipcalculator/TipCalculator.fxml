@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXSlider?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="331.0" prefWidth="267.0" style="-fx-background-color: midnightblue; -fx-border-color: white;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="tipcalculator.TipCalculatorController">
+   <children>
+      <Label layoutX="-2.0" layoutY="20.0" prefHeight="43.0" prefWidth="267.0" style="-fx-background-color: white;" text="         Tip Calculator">
+         <font>
+            <Font name="Century Schoolbook Bold" size="22.0" />
+         </font>
+      </Label>
+      <Label layoutX="14.0" layoutY="101.0" prefHeight="35.0" prefWidth="105.0" text="AMOUNT" textFill="WHITE">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </Label>
+      <Label fx:id="tipPercentageLabel" layoutX="14.0" layoutY="154.0" prefHeight="35.0" prefWidth="105.0" text="15%" textFill="WHITE">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </Label>
+      <Label layoutX="14.0" layoutY="206.0" prefHeight="35.0" prefWidth="105.0" text="TIP" textFill="WHITE">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </Label>
+      <Label layoutX="14.0" layoutY="267.0" prefHeight="35.0" prefWidth="105.0" text="TOTAL" textFill="WHITE">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </Label>
+      <JFXTextField fx:id="amountTextField" focusColor="WHITE" layoutX="120.0" layoutY="106.0" style="-fx-background-color: white;" unFocusColor="WHITE">
+         <font>
+            <Font name="Berlin Sans FB" size="12.0" />
+         </font></JFXTextField>
+      <JFXTextField fx:id="tipTextField" layoutX="120.0" layoutY="206.0" style="-fx-background-color: white;" unFocusColor="WHITE" />
+      <JFXTextField fx:id="totalTextField" layoutX="120.0" layoutY="267.0" style="-fx-background-color: white;" unFocusColor="WHITE" />
+      <JFXSlider fx:id="tipPercentageSlider" layoutX="118.0" layoutY="172.0" />
+   </children>
+</AnchorPane>
