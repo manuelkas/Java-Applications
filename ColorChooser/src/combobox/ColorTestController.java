@@ -22,6 +22,7 @@ public class ColorTestController implements Initializable {
     
     private static final ColorChooser chooser = new ColorChooser();
     
+    //properties
     @FXML ComboBox<String> combobox;    
     @FXML Pane colorPane;
     
