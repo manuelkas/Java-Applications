@@ -28,7 +28,7 @@ public class StudentPoll
 {
     public void displayData()
     {
-        int frequency[] = new int[ 11 ];
+        int frequency[] = new int[ 15 ];
         Formatter writer = null;
         Scanner pollNumbers = null;
     try
