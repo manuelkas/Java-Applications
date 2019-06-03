@@ -1,0 +1,44 @@
+George WASHINGTON
+John ADAMS
+Thomas JEFFERSON
+James MADISON
+James MONROE
+John Q. ADAMS
+Andrew JACKSON
+Martin VAN_BUREN
+William HARRISON
+John TYLER
+James POLK
+Zachary TAYLOR
+Millard FILLMORE
+Franklin PIERCE
+James BUCHANAN
+Abraham LINCOLN
+Andrew JOHNSON
+Ulysses GRANT
+Rutherford HAYES
+James GARFIELD
+Chester ARTHUR
+Grover CLEVELAND
+Benjamin HARRISON
+Grover CLEVELAND
+William MCKINLEY
+Theodore ROOSEVELT
+William TAFT
+Woodrow WILSON
+Warren HARDING
+Calvin COOLIDGE
+Herbert HOOVER
+Franklin ROOSEVELT
+Harry TRUMAN
+Dwight EISENHOWER
+John KENNEDY
+Lyndon JOHNSON
+Richard NIXON
+Gerald FORD
+James CARTER
+Ronald REAGAN
+George H. W. BUSH
+Bill CLINTON
+George W. BUSH
+Barack OBA
